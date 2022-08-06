@@ -2,3 +2,24 @@
     width: 40%;
     height: 40%;
 }
+
+.parte1{
+    color: #ffc107;
+    padding: 20px 35px 40px 20px;
+}
+.parte2{
+    color: white;
+    text-align: end;
+}
+.x{
+    color: yellow;
+}
+
+
+.textoFonte{
+    color: #ffc107;
+}
+.paragrafo{
+    font-size: 30px;
+    color: aliceblue;
+}
